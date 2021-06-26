@@ -13,10 +13,10 @@ PayFlow its purpose is to help you with your bank slip payments and organization
 * MVC Architecture
 * Firebase Auth
 
-## How to tun?
+## How to run?
 
 ```
-$
+$ flutter run
 ```
 
 ## License 
